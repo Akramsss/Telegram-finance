@@ -241,6 +241,3 @@ Rebuilding a sheet is always safe. It keeps Transactions and Budgets:
 - 🎯 Savings goals with progress bars
 - 👫 Shared budgets for roommates
 
----
-
-<sub>Built with Python, [python-telegram-bot](https://python-telegram-bot.org), [gspread](https://docs.gspread.org) and matplotlib. Optional AI parsing by [Claude](https://www.anthropic.com).</sub>
